@@ -34,3 +34,5 @@ english: 90.0
 Average Grade: 75.33
 Letter Grade: C
 GPA: 2.00
+
+![Screenshot (9)](https://github.com/user-attachments/assets/300d623c-a642-472f-b29d-6ea86543b9d0)
